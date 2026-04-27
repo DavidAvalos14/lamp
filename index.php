@@ -20,7 +20,7 @@ if($conn->connect_error){
 <html lang = "es">
     <head>
         <meta charset="UTF-8">
-        <title>Stack LAMP con Docker</title>
+        <title>Stack LAMP con Docker ITLaguna</title>
         <style>
             body { font-family: Arial, sans-serif; max-width: 600px;margin: 40px auto;padding: 20px; }
             .ok { color: green; font-weight: bold; }
