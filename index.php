@@ -30,7 +30,7 @@ if($conn->connect_error){
 
 
     <body>
-        <h1>Stack LAMP en Docker</h1>
+        <h1>Stack LAMP en Docker <b>ITL</b></h1>
         <p class="ok">Conexión a MySQL exitosa</p>
 
 
